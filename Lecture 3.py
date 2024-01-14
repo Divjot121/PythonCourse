@@ -1,4 +1,5 @@
 # Variables And Data Types
+# //////////////////////////// todo:Start ////////////////////////////
 i = 5 # int datatype Var
 print(type(i))
 print(i)
